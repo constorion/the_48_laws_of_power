@@ -1,5 +1,5 @@
 [book]
-title = "Constorion mdBook Template Documentation"
+title = "The 48 Laws of Power"
 authors = ["Rishabh"]
 description = ""
 language = "en"
@@ -14,6 +14,6 @@ edition = "2018"
 
 [output.html]
 default-theme = "rust"
-git-repository-url = "https://github.com/constorion/constorion-mdbook-template"
+git-repository-url = "https://github.com/constorion/the_48_laws_of_power"
 git-repository-icon = "fa-github"
 mathjax-support = true
